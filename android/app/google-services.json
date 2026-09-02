@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253966239960",
+    "project_id": "crop-connect-c348e",
+    "storage_bucket": "crop-connect-c348e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253966239960:android:ffddfcaf3ed3fc369aefad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhC5wbxYJmQUs0aI6T9vzdq4AC0fTHEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253966239960:android:b32f5ddb640069659aefad",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhC5wbxYJmQUs0aI6T9vzdq4AC0fTHEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
